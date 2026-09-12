@@ -1,0 +1,139 @@
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.exe
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.deps.json
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.runtimeconfig.json
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.pdb
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.Form1.resources
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.AssemblyInfo.cs
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahm.BF8A8493.Up2Date
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\refint\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.pdb
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.genruntimeconfig.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (3)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\ref\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.exe
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.deps.json
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.runtimeconfig.json
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.pdb
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.Form1.resources
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.AssemblyInfo.cs
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahm.BF8A8493.Up2Date
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\refint\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.pdb
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.genruntimeconfig.cache
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\ref\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.LoginForm.resources
+C:\Users\doruk\OneDrive\Masaüstü\Yeni klasör (4)\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.WelcomeForm.resources
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.exe
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.deps.json
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.runtimeconfig.json
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SayiTahminOyunu.pdb
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.Form1.resources
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.LoginForm.resources
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.WelcomeForm.resources
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.AssemblyInfo.cs
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahm.BF8A8493.Up2Date
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\refint\SayiTahminOyunu.dll
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.pdb
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\SayiTahminOyunu.genruntimeconfig.cache
+C:\Users\doruk\OneDrive\Masaüstü\yeni\say-tahmin-oyunu\Dogus_Sayi_Tahmin_Oyunu\obj\Debug\net10.0-windows\ref\SayiTahminOyunu.dll

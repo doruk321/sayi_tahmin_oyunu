@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|c:\\users\\doruk\\onedrive\\masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\dogus_sayi_tahmin_oyunu\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|c:\\users\\doruk\\onedrive\\masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\dogus_sayi_tahmin_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|c:\\users\\doruk\\onedrive\\masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\dogus_sayi_tahmin_oyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07ED1CB-0957-B752-3FF3-5AE545E3B6E8}|SayiTahminOyunu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\LoginForm.cs*",
+              "RelativeToolTip": "LoginForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:18:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomeForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\Dogus_Sayi_Tahmin_Oyunu\\WelcomeForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Yeni klas\u00F6r (4)\\Dogus_Sayi_Tahmin_Oyunu\\WelcomeForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:15:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\Dogus_Sayi_Tahmin_Oyunu\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Yeni klas\u00F6r (4)\\Dogus_Sayi_Tahmin_Oyunu\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:13:04.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:22:02.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\Dogus_Sayi_Tahmin_Oyunu\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "..\\..\\..\\Yeni klas\u00F6r (4)\\Dogus_Sayi_Tahmin_Oyunu\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:15:56.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\doruk\\OneDrive\\Masa\u00FCst\u00FC\\yeni\\say-tahmin-oyunu\\Dogus_Sayi_Tahmin_Oyunu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:15:51.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
