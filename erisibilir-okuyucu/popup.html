@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Erişilebilir Okuyucu</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d2e;
+      --surface2: #22263a;
+      --accent: #4f6ef7;
+      --accent-hover: #3a57e8;
+      --text: #e8eaf6;
+      --text-muted: #8b90b8;
+      --border: #2e3354;
+      --dot: #4f6ef7;
+      --btn-bg: #1e2238;
+      --btn-active: #2d3560;
+      --green: #4ade80;
+      --radius: 12px;
+    }
+
+    body.light {
+      --bg: #f0f2ff;
+      --surface: #ffffff;
+      --surface2: #e8eaf6;
+      --text: #1a1d2e;
+      --text-muted: #5a5f8a;
+      --border: #d0d4f0;
+      --btn-bg: #e8eaf6;
+      --btn-active: #c8ccee;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      width: 290px;
+      padding: 14px;
+      transition: background 0.3s, color 0.3s;
+      overflow-x: hidden;
+    }
+
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .header-icon {
+      width: 36px; height: 36px;
+      background: var(--accent);
+      border-radius: 9px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 17px; flex-shrink: 0;
+    }
+
+    .header-text h1 { font-size: 13px; font-weight: 800; line-height: 1.2; }
+    .header-text p  { font-size: 10px; color: var(--text-muted); margin-top: 1px; }
+
+    .btn-main {
+      width: 100%;
+      background: var(--accent); color: #fff;
+      border: none; border-radius: var(--radius);
+      padding: 11px;
+      font-family: 'Nunito', sans-serif; font-size: 12px; font-weight: 700;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center; gap: 7px;
+      transition: background 0.2s, transform 0.1s;
+      margin-bottom: 14px;
+    }
+    .btn-main:hover  { background: var(--accent-hover); }
+    .btn-main:active { transform: scale(0.98); }
+    .btn-main svg    { width: 14px; height: 14px; fill: white; flex-shrink: 0; }
+    .btn-main.on     { background: #22c55e; }
+
+    .section-label {
+      display: flex; align-items: center; gap: 6px;
+      font-size: 9px; font-weight: 700; letter-spacing: 1px;
+      color: var(--text-muted); text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    .section-label::before {
+      content: ''; width: 6px; height: 6px;
+      border-radius: 50%; background: var(--dot);
+      display: block; flex-shrink: 0;
+    }
+
+    .controls {
+      display: flex; gap: 6px; margin-bottom: 10px;
+    }
+
+    .ctrl-btn {
+      flex: 1; min-width: 0;
+      background: var(--btn-bg);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      color: var(--text-muted);
+      font-family: 'Nunito', sans-serif;
+      font-size: 8px; font-weight: 700;
+      cursor: pointer;
+      padding: 8px 2px 6px;
+      display: flex; flex-direction: column; align-items: center; gap: 4px;
+      transition: background 0.2s, color 0.2s, border-color 0.2s;
+      letter-spacing: 0.4px;
+    }
+    .ctrl-btn svg   { width: 15px; height: 15px; fill: currentColor; flex-shrink: 0; }
+    .ctrl-btn:hover { background: var(--btn-active); color: var(--text); border-color: var(--accent); }
+    .ctrl-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+
+    .status-box {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 7px 11px;
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-bottom: 14px;
+      min-height: 30px;
+      display: flex; align-items: center;
+    }
+    .status-box.loading { color: var(--accent); }
+    .status-box.error   { color: #f87171; }
+    .status-box.playing { color: var(--green); }
+    .status-box.stopped { color: #fb923c; }
+
+    .settings {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 12px;
+      margin-bottom: 12px;
+    }
+
+    .slider-row {
+      display: flex; align-items: center; gap: 7px;
+      margin-bottom: 8px;
+    }
+    .slider-row:last-child { margin-bottom: 0; }
+
+    .slider-icon {
+      font-size: 11px; width: 14px;
+      text-align: center; flex-shrink: 0;
+      color: var(--text-muted);
+    }
+
+    .slider-label {
+      font-size: 10px; color: var(--text-muted);
+      width: 62px; flex-shrink: 0;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+
+    input[type="range"] {
+      flex: 1; min-width: 0;
+      accent-color: var(--accent);
+      height: 4px; cursor: pointer;
+    }
+
+    .slider-val {
+      font-size: 10px; font-weight: 700;
+      color: var(--text);
+      width: 34px; text-align: right;
+      flex-shrink: 0; white-space: nowrap;
+    }
+
+    .theme-btn {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      color: var(--text-muted);
+      font-family: 'Nunito', sans-serif;
+      font-size: 11px; font-weight: 700;
+      cursor: pointer; padding: 9px;
+      transition: background 0.2s;
+    }
+    .theme-btn:hover { background: var(--btn-active); color: var(--text); }
+
+    @keyframes blink { 0%,100%{opacity:.3} 50%{opacity:1} }
+    .dot1 { animation: blink 1.2s .0s infinite; }
+    .dot2 { animation: blink 1.2s .3s infinite; }
+    .dot3 { animation: blink 1.2s .6s infinite; }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-icon">📖</div>
+    <div class="header-text">
+      <h1>Erişilebilir Okuyucu</h1>
+      <p>Ergun Kalbak sesiyle</p>
+    </div>
+  </div>
+
+  <button class="btn-main" id="btnReadMode">
+    <svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/></svg>
+    Okuma Modunu Aç / Kapat
+  </button>
+
+  <div class="section-label">Sesli Okuma</div>
+
+  <div class="controls">
+    <button class="ctrl-btn" id="btnGeri">
+      <svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>
+      GERİ
+    </button>
+    <button class="ctrl-btn" id="btnOku">
+      <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+      OKU
+    </button>
+    <button class="ctrl-btn" id="btnDur">
+      <svg viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+      DUR
+    </button>
+    <button class="ctrl-btn" id="btnIleri">
+      <svg viewBox="0 0 24 24"><path d="M6 18l8.5-6L6 6v12zm2-8.14L11.03 12 8 14.14V9.86zM16 6h2v12h-2z"/></svg>
+      İLERİ
+    </button>
+  </div>
+
+  <div class="status-box" id="statusBox">Hazır</div>
+
+  <div class="section-label">Görünüm</div>
+
+  <div class="settings">
+    <div class="slider-row">
+      <span class="slider-icon">Aa</span>
+      <span class="slider-label">Yazı Boyutu</span>
+      <input type="range" id="fontSize" min="14" max="36" value="22"/>
+      <span class="slider-val" id="fontSizeVal">22px</span>
+    </div>
+    <div class="slider-row">
+      <span class="slider-icon">☰</span>
+      <span class="slider-label">Satır Aralığı</span>
+      <input type="range" id="lineHeight" min="10" max="25" value="18"/>
+      <span class="slider-val" id="lineHeightVal">1.8</span>
+    </div>
+    <div class="slider-row">
+      <span class="slider-icon">⚡</span>
+      <span class="slider-label">Okuma Hızı</span>
+      <input type="range" id="readSpeed" min="5" max="20" value="10"/>
+      <span class="slider-val" id="readSpeedVal">1.0x</span>
+    </div>
+  </div>
+
+  <button class="theme-btn" id="themeToggle">🌙 Koyu / Açık Tema</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>
