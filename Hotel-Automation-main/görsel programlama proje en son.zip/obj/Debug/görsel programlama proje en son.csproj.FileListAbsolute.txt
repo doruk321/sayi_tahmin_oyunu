@@ -1,0 +1,28 @@
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel programlama proje en son.csproj.AssemblyReference.cache
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.Properties.Resources.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel programlama proje en son.csproj.GenerateResource.cache
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel programlama proje en son.csproj.CoreCompileInputs.cache
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\bin\Debug\görsel programlama proje en son.exe.config
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\bin\Debug\görsel programlama proje en son.exe
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\bin\Debug\görsel programlama proje en son.pdb
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel programlama proje en son.exe
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel programlama proje en son.pdb
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.StokForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.HakkımızdaForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel programlama proje en son.csproj.ResolveComReference.cache
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.RadyoDinleForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.SifreForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.AdminGirisForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.ResepsiyonForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.MuhasebeForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.FaturaForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.GelirGiderForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.YeniMusteriForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.OdalarForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.OdemeForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.MusterilerForm.resources
+C:\Users\Sami7\source\repos\görsel programlama proje en son\görsel programlama proje en son\obj\Debug\görsel_programlama_proje_en_son.OdayaEkleForm.resources
